@@ -1,0 +1,4 @@
+.now
+
+# Optional eslint cache
+.eslintcache
